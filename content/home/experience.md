@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Research Assistant"
   company = "NHS"
   company_url = ""
-  location = "London"
+  location = "London - North East London Foundation Trust"
   date_start = "2017-01-20"
   date_end = ""
   description = """
@@ -35,9 +35,24 @@ date_format = "Jan 2006"
   title = "Associate Mental Health Practitioner"
   company = "NHS"
   company_url = ""
-  location = "London"
+  location = "London - Barnet, Enfield, and Haringey"
   date_start = "2016-01-02"
-  date_end = ""
+  date_end = "2017-01-20"
+  description = """
+  Responsibilities include:
+  
+  * Helping
+  * 
+  * 
+  """
+  
+[[experience]]
+  title = "Research Assistant"
+  company = "NHS - Life Study"
+  company_url = ""
+  location = "London - Barking, Havering and Redbridge University Hospitals Trust"
+  date_start = "2014-08-05"
+  date_end = "2016-01-02"
   description = """
   Responsibilities include:
   

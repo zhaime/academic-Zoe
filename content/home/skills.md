@@ -43,7 +43,7 @@ subtitle = ""
   icon = "users"
   icon_pack = "fas"
   name = "MDT working"
-  description = "Experience working within clinical, and research teams"
+  description = "Experience working in multi-disciplinary clinical, and research teams"
   
 [[feature]]
   icon = "flask"
