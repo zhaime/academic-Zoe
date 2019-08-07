@@ -26,9 +26,7 @@ interests:
 - psychosis
 - neuroimaging
 
-education:
-cats
-
+-jidjwoeoij
 
 
 # Social/Academic Networking
