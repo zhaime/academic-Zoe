@@ -3,13 +3,13 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `rose`, `strawberry`, `mr_robot`.
-color_theme = "rose"
+color_theme = "default"
 # Enable users to switch between day and night mode?
 day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, `rose`, or `mr_robot`.
-font = "rose"
+font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -74,6 +74,10 @@ appointment_url = "https://calendly.com"
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "@ Me", link = "https://twitter.com/zhaime"},
 
+  [icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "#"],
+  [icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "#"],
+  # [icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "#"],
+  ]
 
 # Display a map.
 # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
