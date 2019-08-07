@@ -21,31 +21,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "UCL"
   organization_url = ""
-  title = ""
+  title = "PhD"
   url = ""
   certificate_url = ""
   date_start = ""
   date_end = ""
   description = ""
 
-[[item]]
-  organization = "Brunel University"
-  organization_url = ""
-  title = ""
-  url = ""
-  certificate_url = ""
-  date_start = ""
-  date_end = ""
-  description = ""
-  
-[[item]]
-  organization = "Plymouth University"
-  organization_url = ""
-  title = ""
-  url = ""
-  certificate_url = ""
-  date_start = ""
-  date_end = ""
-  description = ""
 
 +++
