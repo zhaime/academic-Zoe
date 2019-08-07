@@ -18,13 +18,13 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Using R for statistical analysis"
+  description = "Experience using R for statistical analysis"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "Qualitative and quantitative experience with statistics"  
+  description = "Experience using qualitative and quantitative analysis techniques"  
   
 [[feature]]
   icon = "first-aid"
@@ -37,7 +37,7 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Neuroimaging"
-  description = "fMRI, EEG, and TMS"
+  description = " Experience using fMRI, EEG, and TMS"
   
 [[feature]]
   icon = "users"
