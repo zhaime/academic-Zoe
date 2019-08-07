@@ -48,7 +48,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: briefcase
 icon_pack: fas
-link: 
+link: https://www.researchgate.net/profile/Zoe_Haime4
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
