@@ -41,14 +41,15 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=JFDD7j8AAAAJ&hl=en
+- icon: briefcase
+  icon_pack: fas
+  link: https://www.researchgate.net/profile/Zoe_Haime4/
 # icon: github
 # icon_pack: fab
 # link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: briefcase
-icon_pack: fas
-link: https://www.researchgate.net/profile/Zoe_Haime4/
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
