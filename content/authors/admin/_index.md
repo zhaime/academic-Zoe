@@ -27,9 +27,7 @@ interests:
 - neuroimaging
 
 education:
-- PGDip Mental Health Practice - Middlesex University
-- MSc Functional Neuroimaging - Brunel University
-- BSc (Hons) Psychology - Plymouth University
+
  
 
 # Social/Academic Networking
@@ -53,7 +51,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: briefcase
 icon_pack: fas
-link: 
+link: https://www.researchgate.net/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,4 +63,4 @@ user_groups:
 - Visitors
 ---
 
-I am a research assistant working on the Research into Antipsychotic Discontinuation and Reduction (RADAR) study and a PhD student at University College London.
+I am a research assistant working on the Research into Antipsychotic Discontinuation and Reduction- RADAR study and a PhD student at University College London.
