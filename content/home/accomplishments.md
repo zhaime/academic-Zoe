@@ -28,7 +28,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = """I am currently completing a part-time PhD investigating the effects of antipsychotic discontinuation and reduction on social cognitive ability in schizophrenia-spectrum patients"""
 
-+++
 [[item]]
   organization = "Middlesex University"
   organization_url = ""
@@ -49,8 +48,6 @@ date_format = "Jan 2006"
   date_start = "2012-10-20"
   date_end = "2013-10-20"
   description = "Thesis: An fMRI analysis of responses to emotionally valenced images."
-
-+++
 
 [[item]]
   organization = "Plymouth University"
