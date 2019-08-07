@@ -27,7 +27,7 @@ subtitle = ""
   description = "Qualitative and quantitative experience with statistics"  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "first-aid"
   icon_pack = "fas"
   name = "Patient Experience"
   description = "Experience working with patient populations (mental and physical health conditions)"
