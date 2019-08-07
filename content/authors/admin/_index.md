@@ -27,8 +27,7 @@ interests:
 - neuroimaging
 
 education:
-PGDip Mental Health Practice
-  courses:
+
 
 
 # Social/Academic Networking
