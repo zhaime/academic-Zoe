@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Work"
 subtitle = ""
 
 # Date format for experience
@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Assistant"
-  company = "NHS"
+  company = "NHS - RADAR Study"
   company_url = ""
   location = "London - North East London Foundation Trust"
   date_start = "2017-01-20"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   """
 [[experience]]
   title = "Associate Mental Health Practitioner"
-  company = "NHS"
+  company = "NHS - The Grove Drug Service/Therapy Ward Goodmayes Hospital"
   company_url = ""
   location = "London - Barnet, Enfield, and Haringey"
   date_start = "2016-01-02"
