@@ -27,7 +27,9 @@ interests:
 - neuroimaging
 
 education:
-
+- PGDip Mental Health Practice
+- MSc Functional Neuroimaging
+- BSc (Hons) Psychology
  
 
 # Social/Academic Networking
