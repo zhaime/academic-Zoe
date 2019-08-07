@@ -53,7 +53,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: briefcase
 icon_pack: fas
-link: https://www.researchgate.net/
+link: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
