@@ -38,7 +38,6 @@ date_format = "Jan 2006"
   date_end = "2017-01-20"
   description = ""
 
-+++
 [[item]]
   organization = "Brunel University"
   organization_url = ""
