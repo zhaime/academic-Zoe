@@ -14,7 +14,7 @@ role: Researcher and PhD Student
 
 # Organizations/Affiliations
 organisations:
-- name: University College London -UCL
+- name: University College London (UCL)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,9 +27,7 @@ interests:
 - neuroimaging
 
 education:
-- PGDip Mental Health Practice
-- MSc Functional Neuroimaging
-- BSc Hons Psychology
+  courses:
  
 
 # Social/Academic Networking
@@ -53,7 +51,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: briefcase
 icon_pack: fas
-link: https://www.researchgate.net/
+link: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,4 +63,4 @@ user_groups:
 - Visitors
 ---
 
-I am a research assistant working on the Research into Antipsychotic Discontinuation and Reduction- RADAR study and a PhD student at University College London.
+I am a research assistant working on the Research into Antipsychotic Discontinuation and Reduction (RADAR) study and a PhD student at University College London.
