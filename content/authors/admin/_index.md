@@ -4,7 +4,7 @@ name: Zoë Haime
 
 # Username (this should match the folder name)
 authors:
-- Zoe
+- admin
 
 # Is this the primary user of the site?
 superuser: true
