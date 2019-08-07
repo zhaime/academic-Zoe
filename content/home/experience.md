@@ -28,9 +28,14 @@ date_format = "Jan 2006"
 
   Responsibilities include:
   
-  * Recruiting
-  * 
-  * 
+  * Recruitment and Assessments (including PANSS)
+  * Website and Social Media Management
+  * Policy Writing
+  * Data Entry, Cleaning, and Analysis
+  * EDGE and CPMS
+  * Conducting Qualitative Interviews and Transcribing
+  * Writing For Publication
+  * Reviewing Papers
   """
 [[experience]]
   title = "Associate Mental Health Practitioner"
@@ -40,11 +45,14 @@ date_format = "Jan 2006"
   date_start = "2016-01-02"
   date_end = "2017-01-20"
   description = """
-  Responsibilities include:
+  Responsibilities included:
   
-  * Helping
-  * 
-  * 
+  * Motivational Interviewing
+  * Contingency Management
+  * Harm Reduction/Needle Exchange
+  * Co-facilitating Psychology Groups
+  * Shared-Care and MDT Working
+  * Service Evaluation
   """
   
 [[experience]]
@@ -54,11 +62,23 @@ date_format = "Jan 2006"
   location = "London - Barking, Havering and Redbridge University Hospitals Trust"
   date_start = "2014-08-05"
   date_end = "2016-01-02"
-  description = """
-  Responsibilities include:
+  description = """ Life Study was a cohort trial looking at children prenatally and following them and their parents up frequently throughout their lifetimes. Measures included psychometric tests, observational studies, anthropometry measurements, biological samples, and vision assessments.
+  Responsibilities included:
   
-  * Helping
-  * 
-  * 
+  * Participant Recruitment
+  * Phlebotomy and Biological Sample Taking
+  * Psychometric Measures
+  * Anthropometry and Vision Measures
+  * Observational Parent-Baby Assessments
+  """
+  
+[[experience]]
+  title = "Digital Communications Assistant"
+  company = "LifePsychol"
+  company_url = ""
+  location = "London"
+  date_start = "2014-05-02"
+  date_end = "2019-07-20"
+  description = """ Running social media accounts for clinical psychologist Dr Miriam Silver.
   """
 +++
