@@ -26,6 +26,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-01-20"
   date_end = "present"
-  description = "I am currently completing a part-time PhD investigating the effect of antipsychotic discontinuation and reduction as part of the RADAR study."
+  description = I am currently completing a part-time PhD investigating the effect of antipsychotic discontinuation and reduction as part of the RADAR study.
 
 +++
