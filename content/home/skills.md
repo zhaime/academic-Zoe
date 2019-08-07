@@ -24,13 +24,13 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "qualitative and quantitative"  
+  description = "Qualitative and quantitative experience with statistics"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "users-medical"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Patient Experience"
+  description = "Experience working with patient populations (mental and physical health conditions)"
   
   
 [[feature]]
@@ -43,5 +43,11 @@ subtitle = ""
   icon = "users"
   icon_pack = "fas"
   name = "MDT working"
-  description = "experience working within clinical and research teams"
+  description = "Experience working within clinical, and research teams"
+  
+[[feature]]
+  icon = "flask"
+  icon_pack = "fas"
+  name = "Experimental Design"
+  description = "Experience designing and conducting experiments"
 +++
