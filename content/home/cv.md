@@ -3,4 +3,4 @@
 type = "widget_page"
 headless = true  # Homepage is headless, other widget pages are not.
 +++
-<img="/static/files/cv.jpg">
+![](/home/cv_files/cv.pdf)
