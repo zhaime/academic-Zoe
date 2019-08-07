@@ -33,7 +33,7 @@ subtitle = ""
   description = "10%"
   
 [[feature]]
-  icon = "head-side-brain"
+  icon = "fa-head-side-brain"
   icon_pack = "fad"
   name = "Neuroimaging"
   description = "10%"
