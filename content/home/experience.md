@@ -24,7 +24,8 @@ date_format = "Jan 2006"
   location = "London - North East London Foundation Trust"
   date_start = "2017-01-20"
   date_end = ""
-  description = """
+  description = """ RADAR is a randomised controlled trial looking at effects of antipsychotic reduction on outcome measures including social functioning, neurocognition, and symptom scores.
+
   Responsibilities include:
   
   * Recruiting
