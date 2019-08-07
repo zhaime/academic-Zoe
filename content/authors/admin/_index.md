@@ -40,7 +40,7 @@ social:
   link: https://twitter.com/zhaime
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?hl=en&user=JFDD7j8AAAAJ&view_op=list_works&gmla=AJsN-F49no1VQSJ4c63qvr7NBZkHKiUgnN6jPINtX504lUV_N0O2-A5l5oVBu54lQMaRsi-qWyPDCH_ZCI3Wu-kHsN6PIW272-OC0f4Tu1UoYMWp3bVSgELO8TZGIjQmTq81pfpF31DPxbs2HHTP0gqwJkQU-_KvFQ
+  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/zhaime
