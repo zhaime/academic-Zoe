@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-02-20"
   date_end = ""
-  description = "I am currently completing a part-time PhD investigating the effects of antipsychotic discontinuation and reduction on social cognitive ability in schizophrenia-spectrum patients"
+  description = """I am currently completing a part-time PhD investigating the effects of antipsychotic discontinuation and reduction on social cognitive ability in schizophrenia-spectrum patients"""
 
 +++
 [[item]]
@@ -51,6 +51,7 @@ date_format = "Jan 2006"
   description = "Thesis: An fMRI analysis of responses to emotionally valenced images."
 
 +++
+
 [[item]]
   organization = "Plymouth University"
   organization_url = ""
