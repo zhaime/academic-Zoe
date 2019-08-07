@@ -27,10 +27,8 @@ interests:
 - neuroimaging
 
 education:
-- cats
-- social cognition
-- psychosis
-- neuroimaging
+cats
+
 
 
 # Social/Academic Networking
