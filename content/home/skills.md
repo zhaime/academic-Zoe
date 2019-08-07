@@ -32,10 +32,16 @@ subtitle = ""
   name = "Photography"
   description = "10%"
   
+  
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
   name = "Neuroimaging"
   description = "10%"
-
+  
+[[feature]]
+  icon = "users"
+  icon_pack = "fas"
+  name = "MDT working"
+  description = "10%"
 +++
