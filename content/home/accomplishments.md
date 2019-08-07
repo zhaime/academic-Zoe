@@ -19,13 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "UCL"
+  organization = "University College London"
   organization_url = ""
   title = "PhD"
   url = ""
   certificate_url = ""
   date_start = "2017-01-20"
   date_end = ""
-  description = ""
+  description = "I am currently completing a part-time PhD investigating the effects of antipsychotic discontinuation and reduction on social cognitive ability in schizophrenia-spectrum patients"
 
 +++
