@@ -63,6 +63,7 @@ date_format = "Jan 2006"
   date_start = "2014-08-05"
   date_end = "2016-01-02"
   description = """ Life Study was a cohort trial looking at children prenatally and following them and their parents up frequently throughout their lifetimes. Measures included psychometric tests, observational studies, anthropometry measurements, biological samples, and vision assessments.
+  
   Responsibilities included:
   
   * Participant Recruitment
