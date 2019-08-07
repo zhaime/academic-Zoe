@@ -8,7 +8,9 @@ title: Posts
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header:
+header: A Systematic Review of the Effects of Sedative and Tranquilising Medications on Social Cognition
   caption: ""
-  image: ""
+  image: "![](/post/_index_files/radarlogo.png)"
+  
+  This review was conducted by Zoë Haime and Andrew Watson at UCL.
 ---
