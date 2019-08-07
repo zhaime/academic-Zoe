@@ -24,8 +24,40 @@ date_format = "Jan 2006"
   title = "PhD"
   url = ""
   certificate_url = ""
-  date_start = "2017-01-20"
+  date_start = "2018-02-20"
   date_end = ""
   description = "I am currently completing a part-time PhD investigating the effects of antipsychotic discontinuation and reduction on social cognitive ability in schizophrenia-spectrum patients"
 
++++
+[[item]]
+  organization = "Middlesex University"
+  organization_url = ""
+  title = "PGDip"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-01-20"
+  date_end = "2017-01-20"
+  description = ""
+
++++
+[[item]]
+  organization = "Brunel University"
+  organization_url = ""
+  title = "MSc Functional Neuroimaging"
+  url = ""
+  certificate_url = ""
+  date_start = "2012-10-20"
+  date_end = "2013-10-20"
+  description = "Thesis: An fMRI analysis of responses to emotionally valenced images."
+
++++
+[[item]]
+  organization = "Plymouth University"
+  organization_url = ""
+  title = "BSc"
+  url = ""
+  certificate_url = ""
+  date_start = "2008-09-20"
+  date_end = "2011-07-20"
+  description = "Thesis: An ERP analysis of adaptation to home, local, and foreign accent."
 +++
