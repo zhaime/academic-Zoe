@@ -27,7 +27,6 @@ interests:
 - neuroimaging
 
 Education:
-*oeijdwiej
 
 
 # Social/Academic Networking
