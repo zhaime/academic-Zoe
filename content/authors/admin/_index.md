@@ -14,7 +14,7 @@ role: Researcher and PhD Student
 
 # Organizations/Affiliations
 organisations:
-- name: University College London (UCL)
+- name: University College London
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
