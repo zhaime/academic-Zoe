@@ -65,4 +65,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-![CV](/home/CV_files/CV_ZoeHaime_2018.pdf)
+![curricvitae](/home/CV_files/CV_ZoeHaime_2018-page-001.jpg)
