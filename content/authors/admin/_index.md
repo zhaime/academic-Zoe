@@ -26,7 +26,8 @@ interests:
 - psychosis
 - neuroimaging
 
-
+Education:
+*oeijdwiej
 
 
 # Social/Academic Networking
