@@ -66,3 +66,4 @@ subtitle = ""
  css_class = ""
 +++
 ![curricvitae](/home/CV_files/CV_ZoeHaime_2018-page-001.jpg)
+![curricvitae2](/home/CV_files/CV_ZoeHaime_2018-page-002.jpg)
