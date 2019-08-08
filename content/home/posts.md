@@ -66,3 +66,4 @@ subtitle = "Post One"
  css_class = ""
 +++
 <b>uyhiooijo</b>
+![brain image](/home/posts_files/8 zh.png)
