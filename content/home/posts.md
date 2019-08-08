@@ -29,7 +29,6 @@ subtitle = ""
     category = ""
     publication_type = ""
     exclude_featured = false
-    ojoji8uhgygtyuiuhoijnoioij
   
 [design]
   # Toggle between the various page layout types.
@@ -66,3 +65,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+uyhiooijo
