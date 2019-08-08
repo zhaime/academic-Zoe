@@ -65,5 +65,5 @@ subtitle = "Post One"
  # CSS class.
  css_class = ""
 +++
-<b>uyhiooijo</b>
-![brain image](/home/posts_files/8 zh.png)
+<b>RADAR</b>
+![RADAR LOGO](/home/posts_files/radarlogo.png)
