@@ -27,6 +27,8 @@ interests:
 - neuroimaging
 
 
+
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -62,3 +64,5 @@ user_groups:
 ---
 
 I am a research assistant working on the Research into Antipsychotic Discontinuation and Reduction (RADAR) study and a PhD student at University College London.
+
+<hr>
