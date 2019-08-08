@@ -69,5 +69,6 @@ subtitle = ""
 +++
 
 <b>Presentation - ECHR - Durham</b><br>
+<hr>
 I will be presenting my recent systematic review findings on 'the effects of sedative and tranquilising medication on social cognition' at the Early Career Hallucinations Research Group Conference on 10th September 2019 in Durham.
 <center>![ECHR](/home/talks_files/ECHR.jpg)</center>
