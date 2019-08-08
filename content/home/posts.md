@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Blog"
-subtitle = "Post One"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -65,5 +65,6 @@ subtitle = "Post One"
  # CSS class.
  css_class = ""
 +++
+subtitle=post one
 <b>RADAR</b>
 ![RADAR LOGO](/home/posts_files/radarlogo.png)
