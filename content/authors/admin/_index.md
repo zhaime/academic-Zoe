@@ -26,7 +26,8 @@ interests:
 - psychosis
 - neuroimaging
 
-Education:
+<p style="text-align:right"
+Education: </p>
 
 
 # Social/Academic Networking
