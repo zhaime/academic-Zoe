@@ -65,6 +65,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-subtitle=post one
+
 <b>RADAR</b>
 ![RADAR LOGO](/home/posts_files/radarlogo.png)
