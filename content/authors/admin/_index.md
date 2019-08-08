@@ -22,9 +22,6 @@ interests:
 - cats
 - social cognition
 - psychosis
-- neuroimaging
-- tnhntyn
-- rtgrtgtg
 
 Dislikes
 - jkhjhu
