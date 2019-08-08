@@ -25,9 +25,12 @@ interests:
 - neuroimaging
 - tnhntyn
 - rtgrtgtg
-<br>
-ijwijdiwejo
+
+Dislikes
 - jkhjhu
+- oeijwio
+- oiwjieoj
+- jnjne
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
