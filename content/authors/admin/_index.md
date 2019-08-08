@@ -25,7 +25,8 @@ interests:
 - social cognition
 - psychosis
 - neuroimaging
-Education:
+- tnhntyn
+- rtgrtgtg
 
 
 # Social/Academic Networking
