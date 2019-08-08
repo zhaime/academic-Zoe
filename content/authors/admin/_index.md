@@ -19,6 +19,7 @@ organisations:
 
 # Short bio (displayed in user profile at end of posts)
 Bio: 
+what happens if I write here
 
 interests:
 - cats
