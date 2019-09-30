@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Middlesex University"
   organization_url = ""
-  title = "PGDip"
+  title = "PGDip Mental Health Practice"
   url = ""
   certificate_url = ""
   date_start = "2016-01-20"

@@ -24,18 +24,18 @@ date_format = "Jan 2006"
   location = "London - North East London Foundation Trust"
   date_start = "2017-01-20"
   date_end = ""
-  description = """ RADAR is a randomised controlled trial looking at effects of antipsychotic reduction on outcome measures including social functioning, neurocognition, and symptom scores.
+  description = """ Research into antipsychotic discontinuation and reduction (RADAR) is a randomised controlled trial looking at effects of antipsychotic reduction on outcome measures including social functioning, neurocognition, and symptom scores.
 
   Responsibilities include:
   
-  * Recruitment and Assessments (including PANSS)
+  * Recruitment, Consent, and Assessments (including PANSS/Neurocognitive tests)
   * Website and Social Media Management
-  * Policy Writing
+  * Reporting SAEs
   * Data Entry, Cleaning, and Analysis
   * EDGE and CPMS
   * Conducting Qualitative Interviews and Transcribing
   * Writing For Publication
-  * Reviewing Papers
+  * Reviewing Patient Notes
   """
 [[experience]]
   title = "Associate Mental Health Practitioner"
@@ -47,17 +47,19 @@ date_format = "Jan 2006"
   description = """
   Responsibilities included:
   
-  * Motivational Interviewing
-  * Contingency Management
+  * Co-facilitating Psychology and Occupational Therapy Groups
+  * Co-facilitating Psychoeducation groups
+  * Attending Court and School-based meetings on clients' behalf
+  * Motivational Interviewing/CBT-p
   * Harm Reduction/Needle Exchange
-  * Co-facilitating Psychology Groups
   * Shared-Care and MDT Working
   * Service Evaluation
+  * Contingency Management
   """
   
 [[experience]]
   title = "Research Assistant"
-  company = "NHS - Life Study"
+  company = "NHS - Life Study/Baby Biome Study"
   company_url = ""
   location = "London - Barking, Havering and Redbridge University Hospitals Trust"
   date_start = "2014-08-05"
@@ -77,7 +79,7 @@ date_format = "Jan 2006"
   title = "Digital Communications Assistant"
   company = "LifePsychol"
   company_url = ""
-  location = "London"
+  location = "WFH"
   date_start = "2014-05-02"
   date_end = "2019-07-20"
   description = """ Running social media accounts for clinical psychologist Dr Miriam Silver.
