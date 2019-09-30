@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   """
 [[experience]]
   title = "Associate Mental Health Practitioner"
-  company = "NHS - The Grove Drug Service/Therapy Ward Goodmayes Hospital"
+  company = "NHS - The Grove Drug Service/Acute Mental Health Ward Goodmayes Hospital"
   company_url = ""
   location = "London - Barnet, Enfield, and Haringey"
   date_start = "2016-01-02"
