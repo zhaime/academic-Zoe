@@ -60,6 +60,6 @@ user_groups:
 - Visitors
 ---
 
-I am a research assistant working on the Research into Antipsychotic Discontinuation and Reduction (RADAR) study and a PhD student at University College London.
+I am a research assistant working on the Research into Antipsychotic Discontinuation and Reduction (RADAR) study, and a PhD student at University College London.
 
 <hr>
