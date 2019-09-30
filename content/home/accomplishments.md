@@ -51,7 +51,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Plymouth University"
   organization_url = ""
-  title = "BSc"
+  title = "BSc (Hons) Psychology"
   url = ""
   certificate_url = ""
   date_start = "2008-09-20"
