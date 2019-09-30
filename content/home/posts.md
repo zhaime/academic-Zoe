@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Blog"
-subtitle = ""
+subtitle = "Take a look here to read my thoughts on the latest publications that interest me!"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -66,5 +66,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<b>RADAR</b>
-![RADAR LOGO](/home/posts_files/radarlogo.png)
+First blog-post coming soon!
