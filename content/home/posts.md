@@ -66,6 +66,7 @@ subtitle = "Take a look here to read my thoughts on the latest publications that
  css_class = ""
 +++
 
+<b> October 2019 </b>
 I am currently recruiting for my PhD research study, if you fit the criteria below please get in touch to take part!
 
 ![](/home/posts_files/Cognition in Human Volunteers Poster V1 07012019-page-001.jpg)
