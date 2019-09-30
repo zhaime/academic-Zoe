@@ -21,7 +21,10 @@ organisations:
 interests:
 - cats
 - social cognition
-- psychosis
+- psychosis/psychopharmacology
+- neuroimaging
+
+will this write on the right?
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
