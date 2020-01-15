@@ -21,7 +21,8 @@ organisations:
 interests:
 - cats
 - social cognition
-- psychosis/psychopharmacology
+- psychosis
+- psychology
 - neuroimaging
 
 # Social/Academic Networking
