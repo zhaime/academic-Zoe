@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1044621398",
+    "hash" : "2894720714",
     "id" : "C582BF87",
-    "lastKnownWriteTime" : 1579126497,
-    "last_content_update" : 1579126497401,
+    "lastKnownWriteTime" : 1579126655,
+    "last_content_update" : 1579126655650,
     "path" : "~/Zoe Academic/config/_default/config.toml",
     "project_path" : "config/_default/config.toml",
     "properties" : {
-        "cursorPosition" : "25,14",
-        "scrollLine" : "22"
+        "cursorPosition" : "25,9",
+        "scrollLine" : "18"
     },
     "read_only" : false,
     "read_only_alternatives" : [
