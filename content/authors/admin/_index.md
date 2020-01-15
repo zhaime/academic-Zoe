@@ -22,7 +22,6 @@ interests:
 - cats
 - social cognition
 - psychosis
-- psychology
 - neuroimaging
 
 # Social/Academic Networking
