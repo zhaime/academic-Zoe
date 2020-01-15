@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n# A Featured Publications section created with the Featured Content widget.\n# This section displays publications from `content/publication/` which have\n# `featured = true` in their front matter.\n\nwidget = \"featured\"  # See https://sourcethemes.com/academic/docs/page-builder/\nheadless = true  # This file represents a page section.\nactive = true  # Activate this widget? true/false\nweight = 80  # Order that this section will appear.\n\ntitle = \"Publications\"\nsubtitle = \"check back soon for my most recent publications!\"\n\n[content]\n  # Page type to display. E.g. post, talk, or publication.\n  page_type = \"publication\"\n  \n  # Choose how much pages you would like to display (0 = all pages)\n  count = 0\n\n  # Page order. Descending (desc) or ascending (asc) date.\n  order = \"desc\"\n\n  # Filter posts by a taxonomy term.\n  [content.filters]\n    tag = \"\"\n    category = \"\"\n    publication_type = \"\"\n  \n[design]\n  # Toggle between the various page layout types.\n  #   1 = List\n  #   2 = Compact\n  #   3 = Card\n  #   4 = Citation (publication only)\n  view = 3\n  \n[design.background]\n  # Apply a background color, gradient, or image.\n  #   Uncomment (by removing `#`) an option to apply it.\n  #   Choose a light or dark text color by setting `text_color_light`.\n  #   Any HTML color name or Hex value is valid.\n  \n  # Background color.\n  # color = \"navy\"\n  \n  # Background gradient.\n  # gradient_start = \"DeepSkyBlue\"\n  # gradient_end = \"SkyBlue\"\n  \n  # Background image.\n  # image = \"background.jpg\"  # Name of image in `static/img/`.\n  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.\n\n  # Text color (true=light or false=dark).\n  # text_color_light = true  \n  \n[advanced]\n # Custom CSS. \n css_style = \"\"\n \n # CSS class.\n css_class = \"\"\n+++\n",
+    "created" : 1565171688759.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1116277463",
+    "id" : "86898F6D",
+    "lastKnownWriteTime" : 1569855977,
+    "last_content_update" : 1569855977466,
+    "path" : "~/Zoe Academic/content/home/featured.md",
+    "project_path" : "content/home/featured.md",
+    "properties" : {
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

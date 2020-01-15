@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: Publications\n\n# View.\n#   1 = List\n#   2 = Compact\n#   3 = Card\n#   4 = Citation\nview: 4\n\n# Optional header image (relative to `static/img/` folder).\nheader:\n  caption: \"\"\n  image: \"\"\n---\n",
+    "created" : 1565170001741.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3884152094",
+    "id" : "5AA4CED5",
+    "lastKnownWriteTime" : 1565168628,
+    "last_content_update" : 1565168628,
+    "path" : "~/Zoe Academic/content/publication/_index.md",
+    "project_path" : "content/publication/_index.md",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n# A Recent Blog Posts section created with the Pages widget.\n# This section displays recent blog posts from `content/post/`.\n\nwidget = \"pages\"  # See https://sourcethemes.com/academic/docs/page-builder/\nheadless = true  # This file represents a page section.\nactive = true  # Activate this widget? true/false\nweight = 60  # Order that this section will appear.\n\ntitle = \"Blog\"\nsubtitle = \"Take a look here to read my thoughts on the latest publications that interest me!\"\n\n[content]\n  # Page type to display. E.g. post, talk, or publication.\n  page_type = \"post\"\n  \n  # Choose how much pages you would like to display (0 = all pages)\n  count = 5\n  \n  # Choose how many pages you would like to offset by\n  offset = 0\n\n  # Page order. Descending (desc) or ascending (asc) date.\n  order = \"desc\"\n\n  # Filter posts by a taxonomy term.\n  [content.filters]\n    tag = \"\"\n    category = \"\"\n    publication_type = \"\"\n    exclude_featured = false\n  \n[design]\n  # Toggle between the various page layout types.\n  #   1 = List\n  #   2 = Compact\n  #   3 = Card\n  #   4 = Citation (publication only)\n  view = 2\n  \n[design.background]\n  # Apply a background color, gradient, or image.\n  #   Uncomment (by removing `#`) an option to apply it.\n  #   Choose a light or dark text color by setting `text_color_light`.\n  #   Any HTML color name or Hex value is valid.\n  \n  # Background color.\n  # color = \"navy\"\n  \n  # Background gradient.\n  # gradient_start = \"DeepSkyBlue\"\n  # gradient_end = \"SkyBlue\"\n  \n  # Background image.\n  # image = \"background.jpg\"  # Name of image in `static/img/`.\n  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.\n\n  # Text color (true=light or false=dark).\n  # text_color_light = true  \n  \n[advanced]\n # Custom CSS. \n css_style = \"\"\n \n # CSS class.\n css_class = \"\"\n+++\n\n<b> October 2019 </b><br>\nI am currently recruiting for my PhD research study, if you fit the criteria below please get in touch to take part!\n\n![](/home/posts_files/Cognition in Human Volunteers Poster V1 07012019-page-001.jpg)\n",
+    "created" : 1565171719283.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "707185065",
+    "id" : "7805AC90",
+    "lastKnownWriteTime" : 1569858332,
+    "last_content_update" : 1569858332342,
+    "path" : "~/Zoe Academic/content/home/posts.md",
+    "project_path" : "content/home/posts.md",
+    "properties" : {
+    },
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

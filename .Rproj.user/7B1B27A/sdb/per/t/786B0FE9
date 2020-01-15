@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n# Hero widget.\nwidget = \"hero\"  # See https://sourcethemes.com/academic/docs/page-builder/\nheadless = true  # This file represents a page section.\nactive = false  # Activate this widget? true/false\nweight = 10  # Order that this section will appear.\n\ntitle = \"Academic\"\n\n# Hero image (optional). Enter filename of an image in the `static/img/` folder.\nhero_media = \"hero-academic.png\"\n\n[design.background]\n  # Apply a background color, gradient, or image.\n  #   Uncomment (by removing `#`) an option to apply it.\n  #   Choose a light or dark text color by setting `text_color_light`.\n  #   Any HTML color name or Hex value is valid.\n\n  # Background color.\n  # color = \"navy\"\n  \n  # Background gradient.\n  gradient_start = \"#4bb4e3\"\n  gradient_end = \"#2b94c3\"\n  \n  # Background image.\n  # image = \"\"  # Name of image in `static/img/`.\n  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.\n\n  # Text color (true=light or false=dark).\n  text_color_light = true\n\n# Call to action links (optional).\n#   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.\n#   Remove a link/note by deleting a cta/note block.\n[cta]\n  url = \"https://sourcethemes.com/academic/docs/install/\"\n  label = \"Get Started\"\n  icon_pack = \"fas\"\n  icon = \"download\"\n  \n[cta_alt]\n  url = \"https://sourcethemes.com/academic/\"\n  label = \"View Documentation\"\n\n# Note. An optional note to show underneath the links.\n[cta_note]\n  label = '<a class=\"js-github-release\" href=\"https://sourcethemes.com/academic/updates\" data-repo=\"gcushen/hugo-academic\">Latest release<!-- V --></a>'\n+++\n\n**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**\n\nBuild **Anything** with Widgets\n\n<span style=\"text-shadow: none;\"><a class=\"github-button\" href=\"https://github.com/gcushen/hugo-academic\" data-icon=\"octicon-star\" data-size=\"large\" data-show-count=\"true\" aria-label=\"Star this on GitHub\">Star</a><script async defer src=\"https://buttons.github.io/buttons.js\"></script></span>\n",
+    "created" : 1565171690642.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3122897086",
+    "id" : "786B0FE9",
+    "lastKnownWriteTime" : 1565168628,
+    "last_content_update" : 1565168628,
+    "path" : "~/Zoe Academic/content/home/hero.md",
+    "project_path" : "content/home/hero.md",
+    "properties" : {
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

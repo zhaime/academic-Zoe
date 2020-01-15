@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n# A Skills section created with the Featurette widget.\nwidget = \"featurette\"  # See https://sourcethemes.com/academic/docs/page-builder/\nheadless = true  # This file represents a page section.\nactive = true  # Activate this widget? true/false\nweight = 30  # Order that this section will appear.\n\ntitle = \"Skills\"\nsubtitle = \"\"\n\n# Showcase personal skills or business features.\n# \n# Add/remove as many `[[feature]]` blocks below as you like.\n# \n# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons\n\n[[feature]]\n  icon = \"r-project\"\n  icon_pack = \"fab\"\n  name = \"R\"\n  description = \"Experience using R for statistical analysis\"\n  \n[[feature]]\n  icon = \"chart-line\"\n  icon_pack = \"fas\"\n  name = \"Statistics\"\n  description = \"Experience using qualitative and quantitative analysis techniques\"  \n  \n[[feature]]\n  icon = \"first-aid\"\n  icon_pack = \"fas\"\n  name = \"Patient Experience\"\n  description = \"Experience working with patient populations (mental and physical health conditions)\"\n  \n  \n[[feature]]\n  icon = \"brain\"\n  icon_pack = \"fas\"\n  name = \"Neuroimaging\"\n  description = \" Experience using fMRI, EEG, and TMS\"\n  \n[[feature]]\n  icon = \"users\"\n  icon_pack = \"fas\"\n  name = \"MDT working\"\n  description = \"Experience working in multi-disciplinary clinical, and research teams\"\n  \n[[feature]]\n  icon = \"flask\"\n  icon_pack = \"fas\"\n  name = \"Experimental Design\"\n  description = \"Experience designing and conducting experiments\"\n+++\n",
+    "created" : 1565179479732.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2926258229",
+    "id" : "3096DC79",
+    "lastKnownWriteTime" : 1565203502,
+    "last_content_update" : 1565203502820,
+    "path" : "~/Zoe Academic/content/home/skills.md",
+    "project_path" : "content/home/skills.md",
+    "properties" : {
+    },
+    "relative_order" : 22,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

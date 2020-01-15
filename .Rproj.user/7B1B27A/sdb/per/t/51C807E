@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n# About widget.\nwidget = \"about\"  # See https://sourcethemes.com/academic/docs/page-builder/\nheadless = true  # This file represents a page section.\nactive = true  # Activate this widget? true/false\nweight = 20  # Order that this section will appear in.\n\ntitle = \"Bio\"\n\n# Choose the user profile to display\n# This should be the username of a profile in your `content/authors/` folder.\n# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself\nauthor = \"admin\"\n+++\n",
+    "created" : 1565170008367.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1477941584",
+    "id" : "51C807E",
+    "lastKnownWriteTime" : 1569856015,
+    "last_content_update" : 1569856015065,
+    "path" : "~/Zoe Academic/content/home/about.md",
+    "project_path" : "content/home/about.md",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: Recent & Upcoming Talks\n\n# View.\n#   1 = List\n#   2 = Compact\n#   3 = Card\nview: 2\n\n# Optional header image (relative to `static/img/` folder).\nheader:\n  caption: \"\"\n  image: \"\"\n---\n",
+    "created" : 1565171775932.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3803194702",
+    "id" : "2BAAF2A9",
+    "lastKnownWriteTime" : 1565173218,
+    "last_content_update" : 1565173218266,
+    "path" : "~/Zoe Academic/content/talk/_index.md",
+    "project_path" : "content/talk/_index.md",
+    "properties" : {
+    },
+    "relative_order" : 16,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

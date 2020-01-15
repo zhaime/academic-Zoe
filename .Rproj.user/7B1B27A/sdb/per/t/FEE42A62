@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n# Experience widget.\nwidget = \"experience\"  # See https://sourcethemes.com/academic/docs/page-builder/\nheadless = true  # This file represents a page section.\nactive = true  # Activate this widget? true/false\nweight = 40  # Order that this section will appear.\n\ntitle = \"Work\"\nsubtitle = \"\"\n\n# Date format for experience\n#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format\ndate_format = \"Jan 2006\"\n\n# Experiences.\n#   Add/remove as many `[[experience]]` blocks below as you like.\n#   Required fields are `title`, `company`, and `date_start`.\n#   Leave `date_end` empty if it's your current employer.\n#   Begin/end multi-line descriptions with 3 quotes `\"\"\"`.\n[[experience]]\n  title = \"Research Assistant\"\n  company = \"NHS - RADAR Study\"\n  company_url = \"\"\n  location = \"London - North East London Foundation Trust\"\n  date_start = \"2017-01-20\"\n  date_end = \"\"\n  description = \"\"\" Research into antipsychotic discontinuation and reduction (RADAR) is a randomised controlled trial looking at effects of antipsychotic reduction on outcome measures including social functioning, neurocognition, and symptom scores.\n\n  Responsibilities include:\n  \n  * Recruitment, Consent, and Assessments (including PANSS/Neurocognitive tests)\n  * Website and Social Media Management\n  * Reporting SAEs\n  * Data Entry, Cleaning, and Analysis\n  * EDGE and CPMS\n  * Conducting Qualitative Interviews and Transcribing\n  * Writing For Publication\n  * Reviewing Patient Notes\n  \"\"\"\n[[experience]]\n  title = \"Associate Mental Health Practitioner\"\n  company = \"NHS - The Grove Drug Service/Acute Mental Health Ward Goodmayes Hospital\"\n  company_url = \"\"\n  location = \"London - Barnet, Enfield, and Haringey\"\n  date_start = \"2016-01-02\"\n  date_end = \"2017-01-20\"\n  description = \"\"\"\n  Responsibilities included:\n  \n  * Co-facilitating Psychology and Occupational Therapy Groups\n  * Co-facilitating Psychoeducation groups\n  * Attending Court and School-based meetings on clients' behalf\n  * Motivational Interviewing/CBT-p\n  * Harm Reduction/Needle Exchange\n  * Shared-Care and MDT Working\n  * Service Evaluation\n  * Contingency Management\n  \"\"\"\n  \n[[experience]]\n  title = \"Research Assistant\"\n  company = \"NHS - Life Study/Baby Biome Study\"\n  company_url = \"\"\n  location = \"London - Barking, Havering and Redbridge University Hospitals Trust\"\n  date_start = \"2014-08-05\"\n  date_end = \"2016-01-02\"\n  description = \"\"\" Life Study was a cohort trial looking at children prenatally and following them and their parents up frequently throughout their lifetimes. Measures included psychometric tests, observational studies, anthropometry measurements, biological samples, and vision assessments.\n  \n  Responsibilities included:\n  \n  * Participant Recruitment\n  * Phlebotomy and Biological Sample Taking\n  * Psychometric Measures\n  * Anthropometry and Vision Measures\n  * Observational Parent-Baby Assessments\n  \"\"\"\n  \n[[experience]]\n  title = \"Digital Communications Assistant\"\n  company = \"LifePsychol\"\n  company_url = \"\"\n  location = \"WFH\"\n  date_start = \"2014-05-02\"\n  date_end = \"2019-07-20\"\n  description = \"\"\" Running social media accounts for clinical psychologist Dr Miriam Silver.\n  \"\"\"\n+++\n",
+    "created" : 1565178880286.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2516293576",
+    "id" : "FEE42A62",
+    "lastKnownWriteTime" : 1569856836,
+    "last_content_update" : 1569856836263,
+    "path" : "~/Zoe Academic/content/home/experience.md",
+    "project_path" : "content/home/experience.md",
+    "properties" : {
+    },
+    "relative_order" : 20,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

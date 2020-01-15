@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n# Tag Cloud widget.\nwidget = \"tag_cloud\"  # See https://sourcethemes.com/academic/docs/page-builder/\nheadless = true  # This file represents a page section.\nactive = true  # Activate this widget? true/false\nweight = 120  # Order that this section will appear.\n\ntitle = \"\"\nsubtitle = \"\"\n+++\n",
+    "created" : 1565179511962.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2373724576",
+    "id" : "3C1415C1",
+    "lastKnownWriteTime" : 1569855899,
+    "last_content_update" : 1569855899968,
+    "path" : "~/Zoe Academic/content/home/tags.md",
+    "project_path" : "content/home/tags.md",
+    "properties" : {
+    },
+    "relative_order" : 25,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

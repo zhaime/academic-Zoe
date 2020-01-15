@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n# Slider widget.\nwidget = \"slider\"  # See https://sourcethemes.com/academic/docs/page-builder/\nheadless = true  # This file represents a page section.\nactive = false  # Activate this widget? true/false\nweight = 1  # Order that this section will appear.\n\n# Slide interval.\n# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).\ninterval = false\n\n# Slide height (optional).\n# E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.\nheight = \"\"\n\n# Slides.\n# Duplicate an `[[item]]` block to add more slides.\n[[item]]\n  title = \"Hello\"\n  content = \"I am center aligned :smile:\"\n  align = \"center\"  # Choose `center`, `left`, or `right`.\n\n  # Overlay a color or image (optional).\n  #   Deactivate an option by commenting out the line, prefixing it with `#`.\n  overlay_color = \"#666\"  # An HTML color value.\n  overlay_img = \"headers/bubbles-wide.jpg\"  # Image path relative to your `static/img/` folder.\n  overlay_filter = 0.5  # Darken the image. Value in range 0-1.\n\n  # Call to action button (optional).\n  #   Activate the button by specifying a URL and button label below.\n  #   Deactivate by commenting out parameters, prefixing lines with `#`.\n  cta_label = \"Get Academic\"\n  cta_url = \"https://sourcethemes.com/academic/\"\n  cta_icon_pack = \"fas\"\n  cta_icon = \"graduation-cap\"\n\n[[item]]\n  title = \"Left\"\n  content = \"I am left aligned :smile:\"\n  align = \"left\"\n\n  overlay_color = \"#555\"  # An HTML color value.\n  overlay_img = \"\"  # Image path relative to your `static/img/` folder.\n  overlay_filter = 0.5  # Darken the image. Value in range 0-1.\n\n[[item]]\n  title = \"Right\"\n  content = \"I am right aligned :smile:\"\n  align = \"right\"\n\n  overlay_color = \"#333\"  # An HTML color value.\n  overlay_img = \"\"  # Image path relative to your `static/img/` folder.\n  overlay_filter = 0.5  # Darken the image. Value in range 0-1.\n+++\n",
+    "created" : 1565179485400.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3171250777",
+    "id" : "DA042E7F",
+    "lastKnownWriteTime" : 1565168628,
+    "last_content_update" : 1565168628,
+    "path" : "~/Zoe Academic/content/home/slider.md",
+    "project_path" : "content/home/slider.md",
+    "properties" : {
+    },
+    "relative_order" : 23,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

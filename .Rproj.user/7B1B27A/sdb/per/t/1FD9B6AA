@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n# People widget.\nwidget = \"people\"  # See https://sourcethemes.com/academic/docs/page-builder/\nheadless = true  # This file represents a page section.\nactive = false  # Activate this widget? true/false\nweight = 68  # Order that this section will appear.\n\ntitle = \"People\"\nsubtitle = \"\"\n\n# List user groups to display.\n#   Edit each user's `user_groups` to add them to one or more of these groups.\nuser_groups = [\"Principal Investigators\",\n               \"Researchers\",\n               \"Grad Students\",\n               \"Administration\",\n               \"Visitors\",\n               \"Alumni\"]\n+++\n",
+    "created" : 1565171713391.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2152460102",
+    "id" : "1FD9B6AA",
+    "lastKnownWriteTime" : 1565168628,
+    "last_content_update" : 1565168628,
+    "path" : "~/Zoe Academic/content/home/people.md",
+    "project_path" : "content/home/people.md",
+    "properties" : {
+    },
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

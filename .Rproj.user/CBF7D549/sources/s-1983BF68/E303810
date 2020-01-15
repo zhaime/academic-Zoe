@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579123115521.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2607430066",
+    "id" : "E303810",
+    "lastKnownWriteTime" : 1577945410,
+    "last_content_update" : 1577945410,
+    "path" : "~/Zoe Academic/config/_default/params.toml",
+    "project_path" : "config/_default/params.toml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# Navigation Links\n#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the\n#     desired widget in your `content/home/` folder.\n#   The weight parameter defines the order that the links will appear in.\n\n[[main]]\n  name = \"Home\"\n  url = \"#about\"\n  weight = 10\n\n[[main]]\n  name = \"Posts\"\n  url = \"#posts\"\n  weight = 20\n\n[[main]]\n  name = \"Skills\"\n  url = \"#skills\"\n  weight = 30\n\n[[main]]\n  name = \"Publications\"\n  url = \"#featured\"\n  weight = 40\n\n[[main]]\n  name = \"Contact\"\n  url = \"#contact\"\n  weight = 60\n\n# Link to a PDF of your resume/CV from the menu.\n# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.\n[[main]]\n  name = \"CV\"\n  url = \"#CV\"\n  weight = 70\n",
+    "created" : 1565172853298.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1538015149",
+    "id" : "8C082056",
+    "lastKnownWriteTime" : 1565282188,
+    "last_content_update" : 1565282188769,
+    "path" : "~/Zoe Academic/config/_default/menus.toml",
+    "project_path" : "config/_default/menus.toml",
+    "properties" : {
+    },
+    "relative_order" : 18,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

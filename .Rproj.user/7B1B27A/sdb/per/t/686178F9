@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n# Accomplishments widget.\nwidget = \"accomplishments\"  # See https://sourcethemes.com/academic/docs/page-builder/\nheadless = true  # This file represents a page section.\nactive = true  # Activate this widget? true/false\nweight = 50  # Order that this section will appear.\n\ntitle = \"Education\"\nsubtitle = \"\"\n\n# Date format\n#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format\ndate_format = \"Jan 2006\"\n\n# Accomplishments.\n#   Add/remove as many `[[item]]` blocks below as you like.\n#   `title`, `organization` and `date_start` are the required parameters.\n#   Leave other parameters empty if not required.\n#   Begin/end multi-line descriptions with 3 quotes `\"\"\"`.\n\n[[item]]\n  organization = \"University College London\"\n  organization_url = \"\"\n  title = \"PhD\"\n  url = \"\"\n  certificate_url = \"\"\n  date_start = \"2018-02-20\"\n  date_end = \"\"\n  description = \"\"\"I am currently completing a part-time PhD investigating the effects of antipsychotic discontinuation and reduction on social cognitive ability in schizophrenia-spectrum patients\"\"\"\n\n[[item]]\n  organization = \"Middlesex University\"\n  organization_url = \"\"\n  title = \"PGDip Mental Health Practice\"\n  url = \"\"\n  certificate_url = \"\"\n  date_start = \"2016-01-20\"\n  date_end = \"2017-01-20\"\n  description = \"\"\n\n[[item]]\n  organization = \"Brunel University\"\n  organization_url = \"\"\n  title = \"MSc Functional Neuroimaging\"\n  url = \"\"\n  certificate_url = \"\"\n  date_start = \"2012-10-20\"\n  date_end = \"2013-10-20\"\n  description = \"Thesis: An fMRI analysis of responses to emotionally valenced images.\"\n\n[[item]]\n  organization = \"Plymouth University\"\n  organization_url = \"\"\n  title = \"BSc (Hons) Psychology\"\n  url = \"\"\n  certificate_url = \"\"\n  date_start = \"2008-09-20\"\n  date_end = \"2011-07-20\"\n  description = \"Thesis: An ERP analysis of adaptation to home, local, and foreign accent.\"\n+++\n",
+    "created" : 1565171642079.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "402978060",
+    "id" : "686178F9",
+    "lastKnownWriteTime" : 1569856187,
+    "last_content_update" : 1569856187094,
+    "path" : "~/Zoe Academic/content/home/accomplishments.md",
+    "project_path" : "content/home/accomplishments.md",
+    "properties" : {
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

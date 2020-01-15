@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# [Academic Kickstart](https://sourcethemes.com/academic/)\n\n**Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).\n\n**Academic Kickstart** provides a minimal template to kickstart your new website.\n\n- [**Get Started**](#install)\n- [View the documentation](https://sourcethemes.com/academic/docs/)\n- [Ask a question](http://discuss.gohugo.io/)\n- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)\n- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)\n- Support development of Academic:\n  - [Donate a coffee](https://paypal.me/cushen)\n  - [Become a backer on Patreon](https://www.patreon.com/cushen)\n  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)\n  - [Wear the T-shirt](https://academic.threadless.com/)\n\n[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)\n\n## Install\n\nYou can choose from one of the following four methods to install:\n\n* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)\n* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)\n* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)\n* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)\n\nThen [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).\n\n## Ecosystem\n\n* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site\n* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic\n\n## License\n\nCopyright 2017-present [George Cushen](https://georgecushen.com).\n\nReleased under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.\n\n[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)\n\n“This is a line from RStudio”\n",
+    "created" : 1565169619681.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1446982821",
+    "id" : "34DC3D8A",
+    "lastKnownWriteTime" : 1565169626,
+    "last_content_update" : 1565169626422,
+    "path" : "~/Zoe Academic/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

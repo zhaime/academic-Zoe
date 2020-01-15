@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n# Homepage\ntype = \"widget_page\"\nheadless = true  # Homepage is headless, other widget pages are not.\n+++\n",
+    "created" : 1565171710070.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "263132480",
+    "id" : "D150883B",
+    "lastKnownWriteTime" : 1565168628,
+    "last_content_update" : 1565168628,
+    "path" : "~/Zoe Academic/content/home/index.md",
+    "project_path" : "content/home/index.md",
+    "properties" : {
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

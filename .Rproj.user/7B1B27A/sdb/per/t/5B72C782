@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# Languages\n#   Create a `[X]` block for each language you want, where X is the language ID.\n#   Refer to https://sourcethemes.com/academic/docs/language/\n\n# Configure the English version of the site.\n[en]\n  languageCode = \"en-uk\"\n  # contentDir = \"content/en\"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.\n\n# Uncomment the lines below to configure your website in a second language.\n#[zh]\n#  languageCode = \"zh-Hans\"\n#  contentDir = \"content/zh\"\n#  title = \"Chinese website title...\"\n#  [zh.params]\n#    description = \"Site description in Chinese...\"\n#  [[zh.menu.main]]\n#    name = \"Wo\"\n#    url = \"#about\"\n#    weight = 1\n",
+    "created" : 1565178600780.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4222749124",
+    "id" : "5B72C782",
+    "lastKnownWriteTime" : 1565178605,
+    "last_content_update" : 1565178605941,
+    "path" : "~/Zoe Academic/config/_default/languages.toml",
+    "project_path" : "config/_default/languages.toml",
+    "properties" : {
+    },
+    "relative_order" : 19,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
